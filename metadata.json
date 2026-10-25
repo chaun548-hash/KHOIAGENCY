@@ -1,0 +1,8 @@
+{
+  "name": "KHỞI AGENCY - Creative Agency Cho Doanh Nghiệp Nhỏ",
+  "description": "Website chính thức của KHỞI AGENCY - Khởi đầu thương hiệu, bứt phá cùng ý tưởng. Dịch vụ lên ý tưởng, chụp ảnh, quay video, thiết kế nhận diện, content và chạy quảng cáo chuyên nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
